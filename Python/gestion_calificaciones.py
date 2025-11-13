@@ -1,3 +1,9 @@
+#"""
+#Sistema de Gestión de Calificaciones Académicas
+#Permite calcular promedios de notas por materia y determinar aprobación/reprobación.
+#Rango de calificación: 0.0 - 5.0
+#Nota mínima de aprobación: 3.0
+#"""
 import os
 
 def clear():
